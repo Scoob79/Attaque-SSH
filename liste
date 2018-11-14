@@ -6,7 +6,7 @@
 | 54.183.187.174     | San Jose                |  95141        | California                        | 1                       | http://trouver-ip.com/index.php?ip=54.183.187.174  | DROP  | 0        | 0        |  
 | 37.110.91.239      | Moscow                  |  101752       | Moscow City                       | 6                       | http://trouver-ip.com/index.php?ip=37.110.91.239   | DROP  | 0        | 0        |  
 | 115.238.245.2      | Lishui                  |  N/A          | Zhejiang                          | 188                     | http://trouver-ip.com/index.php?ip=115.238.245.2   | DROP  | 24114460 |          |  
-| 61.184.247.10      | Wuhan                   |  N/A          | Hubei                             | 324                     | http://trouver-ip.com/index.php?ip=61.184.247.10   | DROP  | 24314580 |          |  
+| 61.184.247.10      | Wuhan                   |  N/A          | Hubei                             | 324                     | http://trouver-ip.com/index.php?ip=61.184.247.10   | DROP  | 25215120 |          |  
 | 61.184.247.12      | Wuhan                   |  N/A          | Hubei                             | 502                     | http://trouver-ip.com/index.php?ip=61.184.247.12   | DROP  | 17110260 |          |  
 | 61.184.247.6       | Wuhan                   |  N/A          | Hubei                             | 246                     | http://trouver-ip.com/index.php?ip=61.184.247.6    | DROP  | 17410440 |          |  
 | 42.7.27.164        | Shenyang                |  N/A          | Liaoning                          | 2926                    | http://trouver-ip.com/index.php?ip=42.7.27.164     | DROP  | 4        | 240      |  
@@ -17,11 +17,11 @@
 | 61.184.247.11      | Wuhan                   |  N/A          | Hubei                             | 669                     | http://trouver-ip.com/index.php?ip=61.184.247.11   | DROP  | 20712420 |          |  
 | 118.123.15.210     | Chengdu                 |  N/A          | Sichuan                           | 177                     | http://trouver-ip.com/index.php?ip=118.123.15.210  | DROP  | 0        | 0        |  
 | 115.238.245.8      | Lishui                  |  N/A          | Zhejiang                          | 465                     | http://trouver-ip.com/index.php?ip=115.238.245.8   | DROP  | 20412240 |          |  
-| 115.238.245.4      | Lishui                  |  N/A          | Zhejiang                          | 180                     | http://trouver-ip.com/index.php?ip=115.238.245.4   | DROP  | 1177020  |          |  
+| 115.238.245.4      | Lishui                  |  N/A          | Zhejiang                          | 180                     | http://trouver-ip.com/index.php?ip=115.238.245.4   | DROP  | 1267560  |          |  
 | 61.184.247.7       | Wuhan                   |  N/A          | Hubei                             | 329                     | http://trouver-ip.com/index.php?ip=61.184.247.7    | DROP  | 36       | 2160     |  
 | 125.65.42.181      | Chengdu                 |  N/A          | Sichuan                           | 232                     | http://trouver-ip.com/index.php?ip=125.65.42.181   | DROP  | 0        | 0        |  
 | 125.65.42.179      | Chengdu                 |  N/A          | Sichuan                           | 115                     | http://trouver-ip.com/index.php?ip=125.65.42.179   | DROP  | 71       | 4260     |  
-| 61.184.247.4       | Wuhan                   |  N/A          | Hubei                             | 450                     | http://trouver-ip.com/index.php?ip=61.184.247.4    | DROP  | 20712420 |          |  
+| 61.184.247.4       | Wuhan                   |  N/A          | Hubei                             | 450                     | http://trouver-ip.com/index.php?ip=61.184.247.4    | DROP  | 21612960 |          |  
 | 118.123.15.142     | Chengdu                 |  N/A          | Sichuan                           | 331                     | http://trouver-ip.com/index.php?ip=118.123.15.142  | DROP  | 23113860 |          |  
 | 125.65.42.183      | Chengdu                 |  N/A          | Sichuan                           | 108                     | http://trouver-ip.com/index.php?ip=125.65.42.183   | DROP  | 0        | 0        |  
 | 125.65.42.178      | Chengdu                 |  N/A          | Sichuan                           | 122                     | http://trouver-ip.com/index.php?ip=125.65.42.178   | DROP  | 0        | 0        |  
@@ -338,14 +338,14 @@
 | 104.248.181.101    | Wilmington              |  19801        | Delaware                          | 1                       | http://trouver-ip.com/index.php?ip=104.248.181.101 | DROP  | 27       | 1612     |  
 | 186.31.65.66       | Bogota                  |  111311       | Distrito Especial                 | 1                       | http://trouver-ip.com/index.php?ip=186.31.65.66    | DROP  | 0        | 0        |  
 | 58.218.92.33       | Nanjing                 |  N/A          | Jiangsu                           | 2                       | http://trouver-ip.com/index.php?ip=58.218.92.33    | DROP  | 11       | 892      |  
-| 109.31.137.150     | Couëron                |  44220        | Pays de la Loire                  | 2                       | http://trouver-ip.com/index.php?ip=109.31.137.150  | DROP  | 4        | 232      |  
+| 109.31.137.150     | Coueron                 |  44220        | Pays de la Loire                  | 2                       | http://trouver-ip.com/index.php?ip=109.31.137.150  | DROP  | 4        | 232      |  
 | 185.66.213.64      | N/A                     |  N/A          | N/A                               | 1                       | http://trouver-ip.com/index.php?ip=185.66.213.64   | DROP  | 8        | 480      |  
-| 213.47.125.80      | Vienna                  |  1070         | Wien                              | 1                       | http://trouver-ip.com/index.php?ip=213.47.125.80   | DROP  | 8        | 480      |  
+| 213.47.125.80      | Vienna                  |  1070         | Wien                              | 1                       | http://trouver-ip.com/index.php?ip=213.47.125.80   | DROP  | 12       | 720      |  
 | 37.187.147.84      | N/A                     |  N/A          | N/A                               | 1                       | http://trouver-ip.com/index.php?ip=37.187.147.84   | DROP  | 8        | 480      |  
 | 162.40.197.174     | Lexington               |  29072        | South Carolina                    | 2                       | http://trouver-ip.com/index.php?ip=162.40.197.174  | DROP  | 0        | 0        |  
 | 121.190.102.54     | Seoul                   |  N/A          | Seoul-t'ukpyolsi                  | 1                       | http://trouver-ip.com/index.php?ip=121.190.102.54  | DROP  | 32       | 1896     |  
 | 139.59.93.89       | Bangalore               |  560100       | Karnataka                         | 1                       | http://trouver-ip.com/index.php?ip=139.59.93.89    | DROP  | 8        | 480      |  
-| 206.81.3.84        | Oakland                 |  94612        | California                        | 1                       | http://trouver-ip.com/index.php?ip=206.81.3.84     | DROP  | 14       | 840      |  
+| 206.81.3.84        | Oakland                 |  94612        | California                        | 1                       | http://trouver-ip.com/index.php?ip=206.81.3.84     | DROP  | 17       | 1020     |  
 | 180.183.50.104     | Bangkok                 |  10400        | Khon Kaen                         | 1                       | http://trouver-ip.com/index.php?ip=180.183.50.104  | DROP  | 0        | 0        |  
 | 116.90.86.185      | Beijing                 |  N/A          | Beijing                           | 1                       | http://trouver-ip.com/index.php?ip=116.90.86.185   | DROP  | 0        | 0        |  
 | 103.67.237.180     | N/A                     |  N/A          | N/A                               | 1                       | http://trouver-ip.com/index.php?ip=103.67.237.180  | DROP  | 8        | 480      |  
@@ -453,6 +453,7 @@
 | 118.89.241.66      | Beijing                 |  N/A          | Beijing                           | 1                       | http://trouver-ip.com/index.php?ip=118.89.241.66   | DROP  | 3        | 180      |  
 | 202.131.152.2      | N/A                     |  N/A          | N/A                               | 1                       | http://trouver-ip.com/index.php?ip=202.131.152.2   | DROP  | 0        | 0        |  
 | 188.6.212.178      | Zalakomar               |  8751         | Zala                              | 1                       | http://trouver-ip.com/index.php?ip=188.6.212.178   | DROP  | 48       | 3120     |  
+| 185.189.115.37     | Prague                  |  130 00       | Hlavni mesto Praha                | 2                       | http://trouver-ip.com/index.php?ip=185.189.115.37  | DROP  | 0        | 0        |  
 ============================================================================================================================================================================================================
-453 IP enregistrées et bannies
-mercredi 14 novembre 2018, 09:42:56 (UTC+0100)
+454 IP enregistrées et bannies
+mercredi 14 novembre 2018, 09:58:38 (UTC+0100)
