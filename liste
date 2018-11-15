@@ -386,7 +386,7 @@
 | 81.4.111.114       | N/A                     |  N/A          | N/A                               | 1                       | http://trouver-ip.com/index.php?ip=81.4.111.114    | DROP  | 8        | 480      |  
 | 108.235.160.215    | Plano                   |  75093        | Texas                             | 1                       | http://trouver-ip.com/index.php?ip=108.235.160.215 | DROP  | 8        | 480      |  
 | 202.73.44.251      | Singapore               |  N/A          | N/A                               | 1                       | http://trouver-ip.com/index.php?ip=202.73.44.251   | DROP  | 22       | 1316     |  
-| 217.40.104.61      | Cardiff                 |  CF14         | Cardiff                           | 1                       | http://trouver-ip.com/index.php?ip=217.40.104.61   | DROP  | 8        | 480      |  
+| 217.40.104.61      | Cardiff                 |  CF14         | Cardiff                           | 1                       | http://trouver-ip.com/index.php?ip=217.40.104.61   | DROP  | 11       | 660      |  
 | 183.87.64.46       | Mumbai                  |  400102       | Maharashtra                       | 1                       | http://trouver-ip.com/index.php?ip=183.87.64.46    | DROP  | 8        | 480      |  
 | 121.190.105.42     | Seoul                   |  N/A          | Seoul-t'ukpyolsi                  | 1                       | http://trouver-ip.com/index.php?ip=121.190.105.42  | DROP  | 20       | 1200     |  
 | 217.182.170.81     | N/A                     |  N/A          | N/A                               | 1                       | http://trouver-ip.com/index.php?ip=217.182.170.81  | DROP  | 8        | 480      |  
@@ -494,13 +494,13 @@
 | 178.124.202.223    | Minsk                   |  220000       | Minsk                             | 1                       | http://trouver-ip.com/index.php?ip=178.124.202.223 | DROP  | 0        | 0        |  
 | 171.224.13.6       | Hanoi                   |  N/A          | An Giang                          | 1                       | http://trouver-ip.com/index.php?ip=171.224.13.6    | DROP  | 5        | 200      |  
 | 202.29.221.202     | Bang Rak                |  10500        | Khon Kaen                         | 1                       | http://trouver-ip.com/index.php?ip=202.29.221.202  | DROP  | 6        | 360      |  
-| 116.31.116.45      | Guangzhou               |  N/A          | Guangdong                         | 2                       | http://trouver-ip.com/index.php?ip=116.31.116.45   | DROP  | 141584900 |          |  
+| 116.31.116.45      | Guangzhou               |  N/A          | Guangdong                         | 2                       | http://trouver-ip.com/index.php?ip=116.31.116.45   | DROP  | 153091800 |          |  
 | 24.200.173.244     | Lachine                 |  H8R          | Quebec                            | 2                       | http://trouver-ip.com/index.php?ip=24.200.173.244  | DROP  | 0        | 0        |  
 | 107.187.61.90      | San Jose                |  95113        | California                        | 1                       | http://trouver-ip.com/index.php?ip=107.187.61.90   | DROP  | 12       | 720      |  
 | 114.34.164.159     | Taipei                  |  N/A          | T'ai-pei                          | 1                       | http://trouver-ip.com/index.php?ip=114.34.164.159  | DROP  | 8        | 480      |  
 | 41.46.46.15        | Alexandria              |  N/A          | Al Iskandariyah                   | 1                       | http://trouver-ip.com/index.php?ip=41.46.46.15     | DROP  | 0        | 0        |  
 | 118.70.182.185     | Hanoi                   |  N/A          | An Giang                          | 1                       | http://trouver-ip.com/index.php?ip=118.70.182.185  | DROP  | 6        | 360      |  
-| 177.73.117.202     | Touros                  |  59584        | Rio Grande do Norte               | 1                       | http://trouver-ip.com/index.php?ip=177.73.117.202  | DROP  | 3        | 180      |  
+| 177.73.117.202     | Touros                  |  59584        | Rio Grande do Norte               | 1                       | http://trouver-ip.com/index.php?ip=177.73.117.202  | DROP  | 6        | 360      |  
 ============================================================================================================================================================================================================
 501 IP enregistrées et bannies
-jeudi 15 novembre 2018, 09:19:26 (UTC+0100)
+jeudi 15 novembre 2018, 09:36:35 (UTC+0100)
