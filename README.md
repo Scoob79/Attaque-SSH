@@ -1,2 +1,2 @@
 # Attaque-SSH
-Liste des IP dangereuses qui effectue des Attaque SSH brute de force
+Liste des IP dangereuses qui effectuent des Attaques SSH brute de force
